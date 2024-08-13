@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "/luckyDefense/static/css/main.5043bc74.css",
-    "main.js": "/luckyDefense/static/js/main.1d9a4b20.js",
+    "main.css": "/luckyDefense/static/css/main.bddafc05.css",
+    "main.js": "/luckyDefense/static/js/main.454a45d4.js",
     "static/js/453.22431be8.chunk.js": "/luckyDefense/static/js/453.22431be8.chunk.js",
+    "static/media/gunFire.png": "/luckyDefense/static/media/gunFire.496344f400396dafc07e.png",
+    "static/media/gun.png": "/luckyDefense/static/media/gun.0efaa45b9e6e3d617bb4.png",
+    "static/media/alien-306013_1280.png": "/luckyDefense/static/media/alien-306013_1280.a384e92f3fbf32bb62a6.png",
     "static/media/logo.svg": "/luckyDefense/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/luckyDefense/index.html",
-    "main.5043bc74.css.map": "/luckyDefense/static/css/main.5043bc74.css.map",
-    "main.1d9a4b20.js.map": "/luckyDefense/static/js/main.1d9a4b20.js.map",
+    "main.bddafc05.css.map": "/luckyDefense/static/css/main.bddafc05.css.map",
+    "main.454a45d4.js.map": "/luckyDefense/static/js/main.454a45d4.js.map",
     "453.22431be8.chunk.js.map": "/luckyDefense/static/js/453.22431be8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5043bc74.css",
-    "static/js/main.1d9a4b20.js"
+    "static/css/main.bddafc05.css",
+    "static/js/main.454a45d4.js"
   ]
 }
